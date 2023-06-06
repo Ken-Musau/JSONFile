@@ -6,10 +6,12 @@
       "email": "Kennedy@example.com",
       "walkingGoal": 10000,
       "waterIntakeGoal": 8,
-      "sleepGoal": 5,
-      "walking": 8000,
-      "waterIntake": 1,
-      "sleep": 7
+      "sleepGoal": 20,
+      "date": "",
+      "walking": 10,
+      "workOut": 0,
+      "waterIntake": 4,
+      "sleep": 18
     },
     {
       "id": 2,
