@@ -7,11 +7,16 @@
       "walkingGoal": 10000,
       "waterIntakeGoal": 8,
       "sleepGoal": 20,
-      "date": "",
-      "walking": 10,
-      "workOut": 0,
-      "waterIntake": 4,
-      "sleep": 18
+      "activities": [
+        {
+          "id": 1,
+          "date": "2023-06-05",
+          "walking": 10,
+          "workOut": 0,
+          "waterIntake": 4,
+          "sleep": 18
+        }
+      ]
     },
     {
       "id": 2,
@@ -20,11 +25,16 @@
       "walkingGoal": 100,
       "waterIntakeGoal": 8,
       "sleepGoal": 20,
-      "date": "",
-      "walking": 10,
-      "workOut": 0,
-      "waterIntake": 4,
-      "sleep": 18
+      "activities": [
+        {
+          "id": 1,
+          "date": "2023-06-05",
+          "walking": 10,
+          "workOut": 0,
+          "waterIntake": 4,
+          "sleep": 18
+        }
+      ]
     },
     {
       "id": 3,
@@ -33,11 +43,16 @@
       "walkingGoal": 8000,
       "waterIntakeGoal": 8,
       "sleepGoal": 20,
-      "date": "",
-      "walking": 10,
-      "workOut": 0,
-      "waterIntake": 4,
-      "sleep": 18
+      "activities": [
+        {
+          "id": 1,
+          "date": "2023-06-05",
+          "walking": 10,
+          "workOut": 0,
+          "waterIntake": 4,
+          "sleep": 18
+        }
+      ]
     },
     {
       "id": 4,
@@ -46,11 +61,16 @@
       "walkingGoal": 7000,
       "waterIntakeGoal": 8,
       "sleepGoal": 20,
-      "date": "",
-      "walking": 10,
-      "workOut": 0,
-      "waterIntake": 4,
-      "sleep": 18
+      "activities": [
+        {
+          "id": 1,
+          "date": "2023-06-05",
+          "walking": 10,
+          "workOut": 0,
+          "waterIntake": 4,
+          "sleep": 18
+        }
+      ]
     },
     {
       "id": 5,
@@ -59,11 +79,16 @@
       "walkingGoal": 14000,
       "waterIntakeGoal": 9,
       "sleepGoal": 20,
-      "date": "",
-      "walking": 10,
-      "workOut": 0,
-      "waterIntake": 4,
-      "sleep": 18
+      "activities": [
+        {
+          "id": 1,
+          "date": "2023-06-05",
+          "walking": 10,
+          "workOut": 0,
+          "waterIntake": 4,
+          "sleep": 18
+        }
+      ]
     }
   ]
 }
